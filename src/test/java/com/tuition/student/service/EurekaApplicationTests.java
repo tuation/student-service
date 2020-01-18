@@ -1,4 +1,4 @@
-package com.tuation.student.service;
+package com.tuition.student.service;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
